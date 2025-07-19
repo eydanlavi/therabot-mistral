@@ -1,12 +1,15 @@
 
-## File structure
+## File Structure
+
+```text
 therabot-mistral/
--- models/
------ mistral-7b-instruct-v0.2.Q4_K_M.gguf
---main.py
---run.sh
---requirements.txt
---README.md
+├── models/
+│   └── mistral-7b-instruct-v0.2.Q4_K_M.gguf
+├── main.py
+├── run.sh
+├── requirements.txt
+└── README.md
+
 
 ## Setup Instructions
 Create a directory under therabot-mistral titled "models"
