@@ -6,6 +6,7 @@ therabot-mistral/
 ├── models/
 │   └── mistral-7b-instruct-v0.2.Q4_K_M.gguf
 ├── main.py
+├── llama.cpp
 ├── run.sh
 ├── requirements.txt
 └── README.md
